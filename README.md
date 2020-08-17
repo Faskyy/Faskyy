@@ -1,7 +1,6 @@
 ### Greetings! 👋
 
-<!--
-**Faskyy/Faskyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 - 🔭 I’m currently working on ... Wave! An online mobile social networking app. Read more about it here: https://fahdksara.com/#/wave/ 
