@@ -9,3 +9,6 @@
 - ⚡ Fun fact: ... I speak three and a half languages (speak, not code)!
 - ⚡ Currently looking for full-time/intern opportunities starting summer/fall 2021!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faskyy)](https://github.com/Faskyy/github-readme-stats)
+
+
