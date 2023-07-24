@@ -1,10 +1,6 @@
 ### Greetings! 👋
 
-
-
-
-- 💬 Ask me about literally anything you want! I'm super friendly and would love to chat. :-)
-- 🌱 I’m currently working as a Software Engineer, building cool front-office trading platforms!
+- 🌱 I’m a Software Engineer based in NYC, building cool front-office trading platforms!
 - 📫 How to reach me: fahd.ksara1@gmail.com
 - ⚡ Fun fact: ... I speak three and a half languages (speak, not code)!
 
